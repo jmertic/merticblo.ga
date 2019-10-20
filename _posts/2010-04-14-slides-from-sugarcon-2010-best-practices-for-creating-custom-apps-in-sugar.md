@@ -1,5 +1,5 @@
 ---
-title: "Slides from SugarCon 2010 "Best Practices for Creating Custom Apps in Sugar""
+title: "Slides from SugarCon 2010 \"Best Practices for Creating Custom Apps in Sugar\""
 date: "2010-04-14"
 ---
 

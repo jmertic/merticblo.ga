@@ -1,5 +1,5 @@
 ---
-title: ""Hey, didn't you use to blog?""
+title: "\"Hey, didn't you use to blog?\""
 date: "2011-08-25"
 ---
 

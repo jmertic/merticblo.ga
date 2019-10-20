@@ -1,5 +1,5 @@
 ---
-title: "Speaking at OSCON - "Developing Easily Deployable PHP Applications""
+title: "Speaking at OSCON - \"Developing Easily Deployable PHP Applications\""
 date: "2010-04-26"
 ---
 
