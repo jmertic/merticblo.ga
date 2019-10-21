@@ -12,6 +12,8 @@ description: Open Source, Open Communities, and Open Tech
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/296737?s=460&v=4
 
+# Hack for GitHub Pages pulling in a random theme
+theme: null
 #
 # Flags below are optional
 #
