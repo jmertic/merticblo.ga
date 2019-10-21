@@ -7,7 +7,7 @@ I've talked a lot on this blog about life and career in this blog recently, as t
 
 But if you want to really dig deep into this topic, then drop a mere $40 and check out the Day Camp 4 Developers conference. One day and you'll hear some great talks such as these:
 
-[![](images/dc4d-camp-counselor-bug-100.png)](http://daycamp4developers.com)
+[![](/images/dc4d-camp-counselor-bug-100.png)](http://daycamp4developers.com)
 
 - Lorna Jane Mitchell: Time and Money
 - Jacques Woodcock: So you want to be Self Employed
