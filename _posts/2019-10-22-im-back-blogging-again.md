@@ -2,7 +2,7 @@
 layout: post
 title: "I'm back blogging (again)"
 date: "2019-10-22"
-categories: [old, life]
+categories: [life]
 
 ---
 

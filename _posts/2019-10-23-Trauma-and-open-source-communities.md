@@ -2,7 +2,7 @@
 layout: post
 title: "Trauma and open source communities"
 date: "2019-10-23"
-categories: [old, opensource, trauma]
+categories: [opensource, trauma]
 ---
 
 ![Trauma and open source communities](/images/trauma-and-os.jpeg "Trauma and open source communities")
