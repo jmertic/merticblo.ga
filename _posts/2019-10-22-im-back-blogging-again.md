@@ -14,6 +14,6 @@ Much in my life has changed in the last 5 years since my last blog post.
 - My family has grown by 50%, with a new son and daughter coming home in 2014 and 2015, with many lessons in childhood trauma learned ( more on that in my next blog post ).
 - I've moved from Wordpress to Jeykll hosted on GitHub pages, mostly out of my growing fondness for markdown.
 
-My focus on writing with explore more into open source communities, in particular the intersection of corporate developers and "community" developers, as well as digging into the effects and impacts of trauma in our open source communities. My first blog post on that theme is [live now]()
+My focus on writing with explore more into open source communities, in particular the intersection of corporate developers and "community" developers, as well as digging into the effects and impacts of trauma in our open source communities. My first blog post on that theme is [live now](opensource/trauma/2019/10/23/Trauma-and-open-source-communities/).
 
 If there are themes that are of interest - please feel free to ping me on [twitter](https://twitter.com/jmertic).
