@@ -1,6 +1,7 @@
 ---
 title: "PHPBenelux 2011 Recap"
 date: "2011-02-03"
+categories: [old, speaking]
 ---
 
 ![](/images/logo.png "PHP Benelux")I had the distinct pleasure last weekend to speak at the PHPBenelux conference, held in Antwerp, Belgium. It was my first time at the conference, where I presented my talk "Making Software Management Tools work for you". The talk centered on choosing tools to help support your software development teams that compliment them rather than impede them. I used lots of examples of what we've done over the last year to help our development efforts, both in customizing our own tools and in changing from Subversion to Git to help make our teams more productive.

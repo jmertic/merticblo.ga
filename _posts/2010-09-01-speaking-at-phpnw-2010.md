@@ -1,6 +1,7 @@
 ---
 title: "Speaking at PHPNW 2010"
 date: "2010-09-01"
+categories: [old, speaking]
 ---
 
 [![phpnw10 PHP Conference 09/10/2010](/images/small_details_174x100.png "phpnw10 PHP Conference 09/10/2010")](http://conference.phpnw.org.uk/phpnw10/)I'm excited to announce I'll be speaking at [PHPNW Conference](http://conference.phpnw.org.uk/phpnw10/), to be held October 9th, 2010 in Manchester, UK. I'll be doing my talk, "[Developing Easily Deployable PHP Applications](http://conference.phpnw.org.uk/phpnw10/developing-easily-deployable-php-applications)", which I also did in July at OSCON. I'm working on making the talk even better based upon feedback I received, and will talk more about the various tools we use and have developed to make building SugarCRM easier.

@@ -1,6 +1,7 @@
 ---
 title: "PHP Installer automated builds"
 date: "2007-04-30"
+categories: [old, php]
 ---
 
 Just wanted to say thanks to Edin for getting the installer building alongside the normal snapshot builds.

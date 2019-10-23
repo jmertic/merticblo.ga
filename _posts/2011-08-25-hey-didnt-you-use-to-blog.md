@@ -1,6 +1,7 @@
 ---
 title: "\"Hey, didn't you use to blog?\""
 date: "2011-08-25"
+categories: [old, life]
 ---
 
 I imagine the title of this post is probably on the minds of all three of the regular readers of this blog ( or probably not, since you probably figured this was on the slow road to just another abandoned Wordpress blog ). Well, as often in the case, life gets in the way, and in this case more so my professional life than anything ( though having an additional little one in the picture certainly didn't help ). Let me recap my last few months:

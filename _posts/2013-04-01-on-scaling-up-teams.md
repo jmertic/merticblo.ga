@@ -1,6 +1,7 @@
 ---
 title: "On scaling up teams"
 date: "2013-04-01"
+categories: [old, career]
 ---
 
 I've been doing a lot of reading on teams lately, coming up with pretty common trends, such as [the importance of good team dynamics](http://www.scrumexpert.com/videos/people-your-most-agile-ingredient/), namely [people are a huge reason why a team is productive or not](http://agile.dzone.com/articles/0th-trap-teams). Or in other words, throwing a bunch of random people together an expecting a good team to emerge is a pretty big anti-pattern if there ever was one.
@@ -10,11 +11,11 @@ What I've found is most people's theories on team dynamics and building a good t
 I was reading [this blog post](http://moz.com/rand/scaling-teams-fight-against-human-nature/) the other day, which really spelled out what happens. Quoting from them...
 
 > The craft itself – the creation of that new business model and new product to solve a big, painful problem,  is a smaller and smaller portion of the time and energy pie chart (at least, for managers/execs/founders). In some ways, that’s a sad, frustrating thing. And in other ways, it’s a healthy, normal part of  scaling.
-> 
+>
 > Why? Because getting bigger and working cohesively toward common goals comes into conflict with so much of human nature.
-> 
+>
 > Human nature dictates that we:
-> 
+>
 > - **Form tribes to build identity and camraderie** – yet in a scaling startup, this causes untenable, painful, progress-stopping inter-team rivalries.
 > - **Invent a common enemy upon which we can heap blame and against which we can fight** – sadly, inside the tribes that naturally form, there’s often a tendency to create that common enemy internally (it could be marketing vs. engineering or testing vs. production or sales vs. execs, or any number of others).
 > - **Minimize the positives and focus on the negatives** – that could be feedback from customers, internal critiques, manager reviews, product imperfections, or weaknesses in process. It’s so easy to forget that we somehow beat the formidable odds against building something that worked, something that attracted customers, something that scaled, and a company where hundreds of people really do want to work.

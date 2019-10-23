@@ -1,6 +1,7 @@
 ---
 title: "Back speaking again"
 date: "2013-06-26"
+categories: [old, speaking]
 ---
 
 I have two conferences coming up shortly that I'll be speaking at, both which are conferences in their first year

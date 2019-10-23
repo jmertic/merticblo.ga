@@ -1,6 +1,7 @@
 ---
 title: "Speaking at OSCON - \"Developing Easily Deployable PHP Applications\""
 date: "2010-04-26"
+categories: [old, speaking]
 ---
 
 I am thrilled to announce that I'll be speaking at [OSCON](http://www.oscon.com/oscon2010) this year, debuting a new and exciting talk "[Developing Easily Deployable PHP Applications](http://www.oscon.com/oscon2010/public/schedule/detail/12992)". Read more about it on my announcement on the [Sugar Developer Blog](http://developers.sugarcrm.com/wordpress/2010/04/26/see-developing-easily-deployable-php-applications-at-oscon-this-summer-in-portland/).![](/images/oscon2010_12year.png "OSCON")

@@ -1,6 +1,7 @@
 ---
 title: "Where I'm speaking at next..."
 date: "2012-01-19"
+categories: [old, speaking]
 ---
 
 I have a number of exciting talks coming to a conference near you...

@@ -1,6 +1,7 @@
 ---
 title: "Having relaxing time off when you are remote"
 date: "2011-12-30"
+categories: [old, career]
 ---
 
 I think one of the most challenging part of being a remote worker is taking time off. When you work at an office and take a day off of work, all you need to do is not show up at the office. But if you office is in your house, it can be really tough to get away from it. And since people aren't used to seeing you in an office to signifying that you are available, it can be really tough to get that message across.

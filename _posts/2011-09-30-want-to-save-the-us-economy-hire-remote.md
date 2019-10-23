@@ -1,6 +1,7 @@
 ---
 title: "Want to save the US economy? Hire remote!"
 date: "2011-09-30"
+categories: [old, career]
 ---
 
 I was talking to my boss the other day on his drive into work. He was complaining about how bad the traffic was getting in the South Bay area over the past few weeks during rush hour, and corolating this to how much ecomonic growth is going on in the valley right now. People are hiring like crazy, and as a result it's becoming harder and harder to find talented developers. I contrast this to the rest of the country, especially where I live in Ohio, where the slowdown in the ecomony and the impending recession are hot button issues and very noticeable.

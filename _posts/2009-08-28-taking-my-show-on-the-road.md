@@ -1,6 +1,7 @@
 ---
 title: "Taking my show on the road"
 date: "2009-08-28"
+categories: [old, speaking]
 ---
 
 In the movie "A Field of Dreams" it was "if you build it, they will come". Well for me, it's been more of "if you write it, they will come", as I've been invited to speak at two upcoming conferences.

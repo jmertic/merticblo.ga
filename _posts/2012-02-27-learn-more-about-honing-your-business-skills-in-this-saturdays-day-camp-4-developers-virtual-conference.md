@@ -1,6 +1,7 @@
 ---
 title: "Learn more about honing your business skills in this Saturday's Day Camp 4 Developers virtual conference"
 date: "2012-02-27"
+categories: [old, speaking]
 ---
 
 I've talked a lot on this blog about life and career in this blog recently, as to help developers become more productive members of a functioning business team. It's a topic that is near and dear to me, and one that is essential for anyone looking to progress their career.

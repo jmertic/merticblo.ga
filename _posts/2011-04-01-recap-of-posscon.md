@@ -1,6 +1,7 @@
 ---
 title: "Recap of POSSCON"
 date: "2011-04-01"
+categories: [old, speaking]
 ---
 
 [![](/images/posscon_logo_trans.png "POSSCON")](http://www.posscon.org)Last week I had the distinct pleasure to be invited to the 4th annual Palmetto Open Source Software Conference ( known as POSSCON ). It couldn't be a better place to be this time of year; while the weather in Northeast Ohio is still cold and dreary, Columbia, SC was sunny and beautiful in the mid 80s during the entire time I was there.

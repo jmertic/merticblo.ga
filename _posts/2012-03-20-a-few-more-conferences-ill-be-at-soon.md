@@ -1,6 +1,7 @@
 ---
 title: "A few more conferences I'll be at soon..."
 date: "2012-03-20"
+categories: [old, speaking]
 ---
 
 I'm excited to announce two more conference stops for me this spring!

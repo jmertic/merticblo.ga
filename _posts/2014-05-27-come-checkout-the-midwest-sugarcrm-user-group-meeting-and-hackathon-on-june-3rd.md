@@ -1,6 +1,7 @@
 ---
 title: "Come checkout the Midwest SugarCRM user group meeting and hackathon on June 3rd"
 date: "2014-05-27"
+categories: [old, speaking]
 ---
 
 Technology Advisors, a Three-Star Platinum Partner of SugarCRM, will be hosting the [Midwest SugarCRM User Group Meeting](http://www.techadv.com/sugarcrm-user-group) at the Park Ridge Country Club on Tuesday, June 3rd, from 8:30 AM – Noon. The user group meeting is free and breakfast will be served. There will be presentations on new products and upgrades from SugarCRM, Net-Results, and Dun & Bradstreet, as well as networking opportunities with other Sugar users from the Chicago area.

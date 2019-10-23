@@ -1,6 +1,7 @@
 ---
 title: "Working successful outside the cube, a redux"
 date: "2012-02-24"
+categories: [old, career, speaking]
 ---
 
 It's been a few weeks since I was in Belgium for the excellent [2012 PHPBenelux Conference](http://conference.phpbenelux.eu/2012/), which brought together beer, chocolates ( at least for the wife ) and PHP together for an excellent two days of fun and community. And I did a new talk, [Working successfully outside the cube](http://conference.phpbenelux.eu/2012/talks/), which was a new talk for me that I got great feedback from.

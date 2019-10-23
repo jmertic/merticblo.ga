@@ -1,6 +1,7 @@
 ---
 title: "Making in-roads in your organization when you are 2000 miles away"
 date: "2011-09-06"
+categories: [old, career]
 ---
 
 What's the best way to meet your co-workers? Break their app of course!

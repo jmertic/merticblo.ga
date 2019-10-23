@@ -1,6 +1,7 @@
 ---
 title: "The basics of having successful remote team members"
 date: "2011-08-29"
+categories: [old, life]
 ---
 
 "So how did you find a job with Sugar?"

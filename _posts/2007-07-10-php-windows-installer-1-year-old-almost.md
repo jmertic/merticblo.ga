@@ -1,6 +1,7 @@
 ---
 title: "PHP Windows Installer 1 year old (almost)"
 date: "2007-07-10"
+categories: [old, php]
 ---
 
 It's almost been a year now since the first testing release the of the installer came out ( [http://news.php.net/php.internals/24929](http://news.php.net/php.internals/24929 "first post to internals") ). I would like to thank everyone who has used and provided feedback on it; as my first real contribution to PHP and Open Source in general, it has been a very rewarding experience.

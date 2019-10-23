@@ -1,6 +1,7 @@
 ---
 title: "Updates to the installer for PHP 5.2.2"
 date: "2007-04-24"
+categories: [old, php]
 ---
 
 I've reworked the code to configure IIS and Apache to use CustomActions that are included directly in the MSI itself instead of running the installed scripts apacheconfig.php and IISConfig.exe; the big advantage is that I can access installer features and properties directly and now can add uninstaller actions to remove the web server configurations.

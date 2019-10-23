@@ -1,6 +1,7 @@
 ---
 title: "Making software management tools work for you - see it at Confoo.ca"
 date: "2010-01-14"
+categories: [old, speaking]
 ---
 
 Coming this March, I'll be premiering a new at [confoo.ca](http://www.confoo.ca) entitled "[Making software management tools work for you](http://www.confoo.ca/en/2010/session/making-software-management-tools-work-for-you)".![](/images/logo_confoo.gif "Confoo.ca logo")

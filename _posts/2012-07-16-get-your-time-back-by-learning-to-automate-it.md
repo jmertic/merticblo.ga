@@ -1,6 +1,7 @@
 ---
 title: "Get your time back... by learning to automate it"
 date: "2012-07-16"
+categories: [old, career]
 ---
 
 After nearly a year ago saying I was going to be a [more regular blogger](http://jmertic.wordpress.com/2011/08/25/hey-didnt-you-use-to-blog/ "“Hey, didn’t you use to blog?”"), here I am nearly [4 months from my last post](http://jmertic.wordpress.com/2012/03/20/a-few-more-conferences-ill-be-at-soon/ "A few more conferences I’ll be at soon…") ( and closer to [5 months](http://jmertic.wordpress.com/2012/02/23/working-successful-outside-the-cube-a-redux/ "Working successful outside the cube, a redux") since one that arguably had some sort of insight to it ). So you, one of the 5 regular readers of my blog are probably wondering what's my excuse going to be this time.

@@ -1,6 +1,7 @@
 ---
 title: "Being respective of your time, as well as others"
 date: "2011-11-29"
+categories: [old, career]
 ---
 
 One of the biggest challenges I've run into in being a "remotee" is the daily interaction with other team members. When you are just a cube, an office, or a desk away, there's always that common water cooler or coffee pot that provides a natural place to interact with others. Or, if you have a question, you can always just stop and ask. Being able to physically get together without having to make much effort is a real bonus for people working in the same office, but can be a bit more challenging if you are remote team member. But this can also be a blessing in disguise, allowing you to concentrate on projects more and be interrupted less often.

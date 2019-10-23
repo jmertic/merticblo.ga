@@ -1,6 +1,7 @@
 ---
 title: "Updates to the installer for PHP 5.2.1"
 date: "2006-12-21"
+categories: [old, php]
 ---
 
 Things that are new to the installer for PHP 5.2.1:

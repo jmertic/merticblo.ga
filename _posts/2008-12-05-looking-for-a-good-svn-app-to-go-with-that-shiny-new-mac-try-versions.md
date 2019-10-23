@@ -1,6 +1,7 @@
 ---
 title: "Looking for a good SVN app to go with that shiny new Mac? Try Versions"
 date: "2008-12-05"
+categories: [old]
 ---
 
 Since I use a Mac for my primary development machine at work, I've been looking for a Subversion app with the power and ease of use of TortoiseSVN. I've tried a few different ones, and while they all work for the normal checkout, edit, commit workflow of subversion, I find myself going back to TortoiseSVN every now and then. A few cases for going back include viewing the history of a repository; looking for the full change history of a file, and easily browsing an entire repository. While many of the intergrated clients in Eclipse and other IDEs do this, I prefer a standalone client that doesn't bind me to an IDE since I could be working with a number of different files in the course of a day. And I'm not really a fan of big IDEs anyways ;-).

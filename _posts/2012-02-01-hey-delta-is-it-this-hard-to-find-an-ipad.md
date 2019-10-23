@@ -1,6 +1,7 @@
 ---
 title: "Hey Delta, is it this hard to find an iPad?"
 date: "2012-02-01"
+categories: [old]
 ---
 
 So this post is a bit of a rant more than anything, so for the three regular readers of this blog feel free to skip over this post. I promise to make this foray a brief one.

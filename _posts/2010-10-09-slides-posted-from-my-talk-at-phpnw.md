@@ -1,6 +1,7 @@
 ---
 title: "Slides posted from my talk at PHPNW"
 date: "2010-10-09"
+categories: [old, speaking]
 ---
 
 Thanks everyone for coming to my "[Developing Deployable PHP Applications](http://conference.phpnw.org.uk/phpnw10/schedule/developing-easily-deployable-php-applications/)" at talk at the [PHPNW 2010 Conference](http://conference.phpnw.org.uk/phpnw10/). I had a great turnout and good feedback, and good feedback to take back to SugarCRM.
